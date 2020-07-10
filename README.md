@@ -6,7 +6,7 @@ from Dhaka, Banngladesh 🇧🇩 <br>
 🎉 &nbsp; Updating my current frontend features. <br>
 🛠 &nbsp; Fixing knowledge base and solving problems. <br>
 💬 &nbsp; Ask me about frontend issues, tell me how you doin'? <br>
-⚡ &nbsp; Fun facts : I have passion a for photography, love to see the world through the lens.
+⚡ &nbsp; Fun fact: I have a passion for photography, love to see the world through the lens.
 #### 📫 &nbsp; Reach me:
 [![LinkedIn URL](https://img.shields.io/badge/social--badge?style=social&label=connect&logo=linkedin)](https://www.linkedin.com/in/saiefalemon)
 [![Codepen URL](https://img.shields.io/badge/social--badge?style=social&label=visit&logo=codepen)](https://www.codepen.io/iamsaief)
