@@ -1,8 +1,8 @@
 #### Hi there 👋
-### It's Saief here,
+## It's Saief here,
 from Dhaka, Banngladesh 🇧🇩 <br>
 👨🏻‍💻 &nbsp; I’m currently working as a Frontend Developer at JoomShaper. <br>
-🌱 &nbsp; Building web development stack. <br>
+🌱 &nbsp; Building my web development stack. <br>
 🎉 &nbsp; Updating my current frontend features. <br>
 🛠 &nbsp; Fixing knowledge base and solving problems. <br>
 💬 &nbsp; Ask me about frontend issues, tell me how you doin'? <br>
