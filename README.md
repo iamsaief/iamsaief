@@ -1,4 +1,4 @@
-##### Hi there 👋
+#### Hi there 👋
 ### It's Saief here,
 from Dhaka, Banngladesh 🇧🇩 <br>
 👨🏻‍💻 &nbsp; I’m currently working as a Frontend Developer at JoomShaper. <br>
@@ -7,7 +7,7 @@ from Dhaka, Banngladesh 🇧🇩 <br>
 🛠 &nbsp; Fixing knowledge base and solving problems. <br>
 💬 &nbsp; Ask me about frontend issues, tell me how you doin'?
 
-##### 📫 &nbsp; Reach me:
+#### 📫 &nbsp; Reach me:
 [![LinkedIn URL](https://img.shields.io/badge/social--badge?style=social&label=connect&logo=linkedin)](https://www.linkedin.com/in/saiefalemon)
 [![Codepen URL](https://img.shields.io/badge/social--badge?style=social&label=visit&logo=codepen)](https://www.codepen.io/iamsaief)
 [![Facebook URL](https://img.shields.io/badge/social--badge?style=social&label=follow&logo=facebook)](https://www.facebook.com/saiefalemon)
