@@ -1,5 +1,5 @@
 #### Hi there 👋
-## It's Saief here,
+## I'm Saief,
 from Dhaka, Banngladesh 🇧🇩 <br>
 👨🏻‍💻 &nbsp; I’m currently working as a Frontend Developer at JoomShaper. <br>
 🌱 &nbsp; Building my web development stack. <br>
