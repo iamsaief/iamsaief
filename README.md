@@ -1,18 +1,18 @@
 #### Hi there 👋
 ## I'm Saief,
 from Dhaka, Banngladesh 🇧🇩 <br>
-👨🏻‍💻 &nbsp; I’m currently working as a Frontend Developer at JoomShaper. <br>
+👨🏻‍💻 &nbsp; Currently working as a Frontend Developer at JoomShaper. <br>
 🌱 &nbsp; Building my web development stack. <br>
 🎉 &nbsp; Updating my current frontend features. <br>
 🛠 &nbsp; Fixing knowledge base and solving problems. <br>
 💬 &nbsp; Ask me about frontend issues, tell me how you doin'? <br>
 ⚡ &nbsp; Fun fact: I have a passion for photography, love to see the world through the lens.
 #### 📫 &nbsp; Reach me:
-[![LinkedIn URL](https://img.shields.io/badge/social--badge?style=social&label=connect&logo=linkedin)](https://www.linkedin.com/in/saiefalemon)
-[![Codepen URL](https://img.shields.io/badge/social--badge?style=social&label=visit&logo=codepen)](https://www.codepen.io/iamsaief)
-[![Facebook URL](https://img.shields.io/badge/social--badge?style=social&label=follow&logo=facebook)](https://www.facebook.com/saiefalemon)
-[![Instagram URL](https://img.shields.io/badge/social--badge?style=social&label=follow&logo=instagram)](https://www.instagram.com/saiefalemon)
-[![Twitter URL](https://img.shields.io/badge/social--badge?style=social&label=@saiefalemon&logo=twitter)](https://www.twitter.com/saiefalemon)
+[![LinkedIn URL](https://img.shields.io/badge/social--badge?style=social&label=LinkedIn&logo=linkedin)](https://www.linkedin.com/in/saiefalemon)
+[![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:saiefalemon@gmail.com)
+[![Codepen URL](https://img.shields.io/badge/social--badge?style=social&label=Codepen&logo=codepen)](https://www.codepen.io/iamsaief)
+[![Hackerrank URL](https://img.shields.io/badge/social--badge?style=social&label=HackerRank&logo=hackerrank)](https://www.hackerrank.com/saiefalemon)
+[![Facebook URL](https://img.shields.io/badge/social--badge?style=social&label=Facebook&logo=facebook)](https://www.twitter.com/saiefalemon)
 [![Flickr URL](https://img.shields.io/badge/social--badge?style=social&label=@saiefalemon&logo=flickr)](https://www.flickr.com/saiefalemon)
 
 <!--
