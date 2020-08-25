@@ -2,8 +2,8 @@
 ## I'm Saief,
 from Dhaka, Banngladesh 🇧🇩 <br>
 👨🏻‍💻 &nbsp; Currently working as a Frontend Developer at JoomShaper. <br>
-🌱 &nbsp; Building my web development stack. <br>
-🎉 &nbsp; Updating my current frontend skillset. <br>
+🎯 &nbsp; Exploring MERN stack development and SPAs <br>
+🎉 &nbsp; Updating my frontend skillsets. <br>
 🛠 &nbsp; Fixing knowledge base and solving problems. <br>
 💬 &nbsp; Ask me about frontend issues, tell me how you doin'? <br>
 ⚡ &nbsp; Fun fact: I have a passion for photography, love to see the world through the lens.
