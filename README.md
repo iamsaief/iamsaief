@@ -13,8 +13,7 @@ from Dhaka, Banngladesh 🇧🇩 <br>
 [![Codepen URL](https://img.shields.io/badge/social--badge?style=social&label=Codepen&logo=codepen)](https://www.codepen.io/iamsaief)
 [![Medium URL](https://img.shields.io/badge/social--badge?style=social&label=medium&logo=medium)](https://medium.com/@saiefalemon)
 [![Hackerrank URL](https://img.shields.io/badge/social--badge?style=social&label=HackerRank&logo=hackerrank)](https://www.hackerrank.com/saiefalemon)
-[![Facebook URL](https://img.shields.io/badge/social--badge?style=social&label=Facebook&logo=facebook)](https://www.facebook.com/saiefalemon)
-[![Flickr URL](https://img.shields.io/badge/social--badge?style=social&label=@saiefalemon&logo=flickr)](https://www.flickr.com/saiefalemon)
+[![https://Unsplash URL](https://img.shields.io/badge/social--badge?style=social&label=@saiefalemon&logo=unsplash)](https://unsplash.com/@saiefalemon)
 
 <!--
 **iamsaief/iamsaief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
