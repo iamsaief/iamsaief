@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=iamsief.iamsaief)
 ### Hi there!&nbsp;👋 &nbsp;I am [Saief](https://github.com/iamsaief/), 
-A Computer Science graduate from Dhaka, Banngladesh 🇧🇩 <br><br>
+A Computer Science graduate from Dhaka, Bangladesh 🇧🇩 <br><br>
 👨🏻‍💻 &nbsp; Currently working as a Frontend Developer at JoomShaper. <br>
 🎯 &nbsp; Exploring *MERN* stack development and *SPA*. <br>
 🎉 &nbsp; Continuously updating my frontend skillsets. <br>
