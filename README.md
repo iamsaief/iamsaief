@@ -31,11 +31,11 @@ By `FreeCodeCamp` -
 <table>
     <tr>
         <td>Front-end</td>
-        <td>Vanilla JavaScript, DOM Manipulation, ES6/ESNext, Reactjs, Bootstrap, Tailwind CSS, Material UI, HTML5, Modern CSS (SVG Animations, Grid/Flexbox etc.) and SASS/SCSS</td>
+        <td>Vanilla JavaScript, DOM Manipulation, ES6/ESNext, Reactjs, Bootstrap, Tailwind CSS, Material UI, <br> HTML5, Modern CSS (SVG Animations, Grid/Flexbox etc.) and SASS/SCSS</td>
     </tr>
     <tr>
         <td>Familier</td>
-        <td>Storybook, WordPress, Node, Express, REST API, MongoDB, Firebase, Netlify, Vercel, Single Page App, React.js, Next.js, Gatsby.js</td>
+        <td>Storybook, WordPress, Node, Express, REST API, MongoDB, Firebase, Netlify, Vercel, <br> Single Page App, React.js, Next.js, Gatsby.js</td>
     </tr>
     <tr>
         <td>Dev Tools</td>
