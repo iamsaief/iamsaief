@@ -1,8 +1,9 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=iamsief.iamsaief) -->
 
-### Hi there, I'm [Saief](https://github.com/iamsaief/) <br>
+### Hi there, 👋&nbsp; I'm [Saief](https://github.com/iamsaief/) <br>
 
-Computer Science graduate from Dhaka, Bangladesh 🇧🇩, self-taught frontend engineer. Good at building interactive UIs with proven knowledge of a11y, typography, spacing, modern single page application development. Actively contributing on up and running WordPress plugins, building reusable components; Efficient in HTML, CSS/SASS, Vanilla JavaScript, React etc.
+Computer Science graduate from Dhaka, Bangladesh 🇧🇩, self-taught frontend engineer. Good at building interactive UIs with proven knowledge of a11y, typography, spacing, design systems, modern single page application development. <br>
+Actively contributing on up and running WordPress plugins, building reusable components; Efficient in HTML, CSS/SASS, Vanilla JavaScript, React etc.
 
 
 <!-- ### Work Experience
@@ -27,7 +28,7 @@ By `FreeCodeCamp` -
 <br> -->
 
 
-### Technical Skills
+### 🧑‍💻&nbsp; Technical Skills
 <table>
     <tr>
         <td>Front-end</td>
@@ -35,7 +36,7 @@ By `FreeCodeCamp` -
     </tr>
     <tr>
         <td>Familier</td>
-        <td>Storybook, WordPress, Node, Express, REST API, MongoDB, Firebase, Netlify, Vercel, <br> Single Page App, React.js, Next.js, Gatsby.js</td>
+        <td>Design Systems, Storybook, WordPress, Node, Express, REST API, MongoDB, Firebase, Netlify, Vercel, <br> SPA, React.js, Next.js, Gatsby.js</td>
     </tr>
     <tr>
         <td>Dev Tools</td>
@@ -47,7 +48,7 @@ By `FreeCodeCamp` -
     </tr>
 </table>
 
-#### 📫 &nbsp; Reach me:
+#### 📫&nbsp; Reach me:
 
 [![LinkedIn URL](https://img.shields.io/badge/social--badge?style=social&label=LinkedIn&logo=linkedin)](https://www.linkedin.com/in/saiefalemon)
 [![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:saiefalemon@gmail.com)
