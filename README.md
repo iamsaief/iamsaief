@@ -2,8 +2,8 @@
 
 ### Hi there, 👋&nbsp; I'm [Saief](https://github.com/iamsaief/) <br>
 
-Computer Science graduate from Dhaka, Bangladesh 🇧🇩, self-taught frontend engineer. Good at building interactive UIs with proven knowledge of a11y, typography, spacing, design systems, modern single page application development. <br>
-Actively contributing on up and running WordPress plugins, building reusable components; Efficient in HTML, CSS/SASS, Vanilla JavaScript, React etc.
+Computer Science graduate from Dhaka, Bangladesh 🇧🇩, experienced, self-taught frontend engineer. Good at building interactive UIs with proven knowledge of a11y, typography, spacing, design systems, modern single-page application development.
+Actively contributing to up and running WordPress plugins, building reusable components; Efficient in HTML, CSS/SASS, Vanilla JavaScript, React, etc.
 
 
 <!-- ### Work Experience
