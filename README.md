@@ -35,7 +35,7 @@ By `FreeCodeCamp` -
         <td>Vanilla JavaScript, DOM Manipulation, ES6/ESNext, Reactjs, Bootstrap, Tailwind CSS, Material UI, <br> HTML5, Modern CSS (SVG Animations, Grid/Flexbox etc.) and SASS/SCSS</td>
     </tr>
     <tr>
-        <td>Familier</td>
+        <td>Familiar</td>
         <td>Design Systems, Storybook, WordPress, Node, Express, REST API, MongoDB, Firebase, Netlify, Vercel, <br> SPA, React.js, Next.js, Gatsby.js</td>
     </tr>
     <tr>
