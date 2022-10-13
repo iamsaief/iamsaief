@@ -26,35 +26,29 @@ Actively contributing to up and running WordPress themes and plugins, building r
     </tr>
 </table>
 
-### Work Experience
+####  📋&nbsp; Work Experience
 
-**JoomShaper, Dhaka, Bangladesh** - Software Engineer <br>
+- **JoomShaper, Dhaka, Bangladesh** - Software Engineer <br>
 `SEPT 2021 - Present`
-<br>
 
-**JoomShaper, Dhaka, Bangladesh** - Frontend Developer <br>
+- **JoomShaper, Dhaka, Bangladesh** - Frontend Developer <br>
 `JUN 2019 - AUG 2021`
-<br>
 
-**Freelance** - Frontend Developer <br>
+- **Freelance** - Frontend Developer <br>
 `FEB 2018 - MAY 2019`
-<br>
 
-**Hello Academy, Dhaka, Bangladesh** - Frontend Developer <br>
+- **Hello Academy, Dhaka, Bangladesh** - Frontend Developer <br>
 `FEB 2017 - DEC 2018`
-<br>
 
-### Certifications
+#### 🏆&nbsp; Certifications
 
-**JavaScript Algorithms and Data Structures Certification**<br>
+- **JavaScript Algorithms and Data Structures Certification**<br>
 By `FreeCodeCamp` - 
 [See credential](https://www.freecodecamp.org/certification/saiefalemon/javascript-algorithms-and-data-structures)
-<br>
 
-**Responsive Web Design Certification**<br>
+- **Responsive Web Design Certification**<br>
 By `FreeCodeCamp` - 
 [See credential](https://www.freecodecamp.org/certification/saiefalemon/responsive-web-design)
-<br>
 
 #### 📫&nbsp; Reach me:
 
