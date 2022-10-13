@@ -2,30 +2,8 @@
 
 ### Hi there, 👋&nbsp; I'm [Saief](https://github.com/iamsaief/) <br>
 
-Computer Science graduate from Dhaka, Bangladesh 🇧🇩, experienced, self-taught frontend engineer. Good at building interactive UIs with proven knowledge of a11y, typography, spacing, design systems, modern single-page application development. <br>
-Actively contributing to up and running WordPress plugins, building reusable components; Efficient in HTML, CSS/SASS, Vanilla JavaScript, React, etc.
-
-
-<!-- ### Work Experience
-
-**JoomShaper, Dhaka, Bangladesh** - Frontend Developer <br>
-`JUN 2019 - Present`
-<br>
-
-**Frelance** - Frontend Developer <br>
-`FEB 2018 - MAY 2019`
-<br>
-
-**Hello Academy, Dhaka, Bangladesh** - Frontend Developer <br>
-`FEB 2017 - DEC 2018`
-<br>
-
-### Certifications
-
-**JavaScript Algorithms and Data Structures**<br>
-By `FreeCodeCamp` - 
-[See credential](https://www.freecodecamp.org/certification/saiefalemon/javascript-algorithms-and-data-structures)
-<br> -->
+Computer Science graduate from Dhaka, Bangladesh 🇧🇩, experienced, self-taught frontend engineer. Good at building interactive UIs with proven knowledge of design systems, a11y, typography, spacing, modern single-page application development. <br>
+Actively contributing to up and running WordPress themes and plugins, building reusable components; Efficient in HTML, CSS/SASS, Vanilla JavaScript, React, etc.
 
 
 ### 🧑‍💻&nbsp; Technical Skills
@@ -47,6 +25,36 @@ By `FreeCodeCamp` -
         <td>Figma, Photoshop, Sketch, Adobe XD</td>
     </tr>
 </table>
+
+### Work Experience
+
+**JoomShaper, Dhaka, Bangladesh** - Software Engineer <br>
+`SEPT 2021 - Present`
+<br>
+
+**JoomShaper, Dhaka, Bangladesh** - Frontend Developer <br>
+`JUN 2019 - AUG 2021`
+<br>
+
+**Freelance** - Frontend Developer <br>
+`FEB 2018 - MAY 2019`
+<br>
+
+**Hello Academy, Dhaka, Bangladesh** - Frontend Developer <br>
+`FEB 2017 - DEC 2018`
+<br>
+
+### Certifications
+
+**JavaScript Algorithms and Data Structures Certification**<br>
+By `FreeCodeCamp` - 
+[See credential](https://www.freecodecamp.org/certification/saiefalemon/javascript-algorithms-and-data-structures)
+<br>
+
+**Responsive Web Design Certification**<br>
+By `FreeCodeCamp` - 
+[See credential](https://www.freecodecamp.org/certification/saiefalemon/responsive-web-design)
+<br>
 
 #### 📫&nbsp; Reach me:
 
