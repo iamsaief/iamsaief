@@ -54,8 +54,8 @@ By `FreeCodeCamp` -
 
 [![LinkedIn URL](https://img.shields.io/badge/social--badge?style=social&label=LinkedIn&logo=linkedin)](https://www.linkedin.com/in/saiefalemon)
 [![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:saiefalemon@gmail.com)
-[![Codepen URL](https://img.shields.io/badge/social--badge?style=social&label=Codesandbox&logo=codesandbox)](https://codesandbox.io/u/iamsaief) 
 [![Codepen URL](https://img.shields.io/badge/social--badge?style=social&label=Codepen&logo=codepen)](https://www.codepen.io/iamsaief)
+[![Codesandbox URL](https://img.shields.io/badge/social--badge?style=social&label=Codesandbox&logo=codesandbox)](https://codesandbox.io/u/iamsaief) 
 [![Medium URL](https://img.shields.io/badge/social--badge?style=social&label=medium&logo=medium)](https://medium.com/@saiefalemon)
 [![Hackerrank URL](https://img.shields.io/badge/social--badge?style=social&label=HackerRank&logo=hackerrank)](https://www.hackerrank.com/saiefalemon)
 
