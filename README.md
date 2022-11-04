@@ -2,19 +2,21 @@
 
 ### Hi there, 👋&nbsp; I'm [Saief](https://github.com/iamsaief/) <br>
 
-Computer Science graduate from Dhaka, Bangladesh 🇧🇩, experienced, self-taught frontend engineer. Good at building interactive UIs with proven knowledge of design systems, a11y, typography, spacing, modern single-page application development. <br>
-Actively contributing to up and running WordPress themes and plugins, building reusable components; Efficient in HTML, CSS/SASS, Vanilla JavaScript, React, etc.
+Computer Science graduate from Dhaka, Bangladesh 🇧🇩, experienced, self-taught frontend engineer. Good at building interactive UIs with proven knowledge of design systems, a11y, typography, spacing, modern single-page application development.
+
+Actively contributing to up-and-running WordPress themes and plugins, building reusable components;
+Efficient in HTML, CSS/SASS, Vanilla JavaScript, Reactjs, PHP etc.
 
 
 ### 🧑‍💻&nbsp; Technical Skills
 <table>
     <tr>
-        <td>Front-end</td>
+        <td>Frontend</td>
         <td>Vanilla JavaScript, DOM Manipulation, ES6/ESNext, Reactjs, Bootstrap, Tailwind CSS, Material UI, <br> HTML5, Modern CSS (SVG Animations, Grid/Flexbox etc.) and SASS/SCSS</td>
     </tr>
     <tr>
         <td>Familiar</td>
-        <td>Design Systems, Storybook, WordPress, Node, Express, REST API, MongoDB, Firebase, Netlify, Vercel, <br> SPA, React.js, Next.js, Gatsby.js</td>
+        <td>PHP, WordPress, Elementor, Gutenburg, SPA, Reactjs, Nextjs, Gatsbyjs, Design Systems, Storybook, <br> Node, Express, REST API, MongoDB, Firebase, Netlify, Vercel</td>
     </tr>
     <tr>
         <td>Dev Tools</td>
@@ -26,21 +28,21 @@ Actively contributing to up and running WordPress themes and plugins, building r
     </tr>
 </table>
 
-####  📋&nbsp; Work Experience
+###  📋&nbsp; Work Experience
 
-- **JoomShaper, Dhaka, Bangladesh** - Software Engineer <br>
-`SEPT 2021 - Present`
+- Software Engineer &nbsp;I&nbsp; _JoomShaper, Dhaka, Bangladesh_ <br>
+`SEPT 2021 - OCT 2022`
 
-- **JoomShaper, Dhaka, Bangladesh** - Frontend Developer <br>
+ - Frontend Developer &nbsp;I&nbsp; _JoomShaper, Dhaka, Bangladesh_<br>
 `JUN 2019 - AUG 2021`
 
-- **Freelance** - Frontend Developer <br>
+- Frontend Developer &nbsp;I&nbsp; _Freelance_<br>
 `FEB 2018 - MAY 2019`
 
-- **Hello Academy, Dhaka, Bangladesh** - Frontend Developer <br>
+- Frontend Developer &nbsp;I&nbsp; _Hello Academy, Dhaka, Bangladesh_<br>
 `FEB 2017 - DEC 2018`
 
-#### 🏆&nbsp; Certifications
+### 🏆&nbsp; Certifications
 
 - **JavaScript Algorithms and Data Structures Certification**<br>
 By `FreeCodeCamp` - 
