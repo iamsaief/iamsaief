@@ -1,6 +1,6 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=iamsief.iamsaief) -->
 
-### Hi there, 👋&nbsp; I'm [Saief](https://github.com/iamsaief/) <br>
+### Hi there, 👋&nbsp; I'm [Saief](https://github.com/iamsaief/)  
 
 Computer Science graduate from Dhaka, Bangladesh 🇧🇩, experienced, self-taught frontend engineer. Good at building interactive UIs with proven knowledge of design systems, a11y, typography, spacing, modern single-page application development.
 
@@ -30,25 +30,25 @@ Efficient in HTML, CSS/SASS, Vanilla JavaScript, Reactjs, PHP etc.
 
 ###  📋&nbsp; Work Experience
 
-- Software Engineer &nbsp;I&nbsp; _JoomShaper, Dhaka, Bangladesh_ <br>
+- Software Engineer &nbsp;I&nbsp; _JoomShaper, Dhaka, Bangladesh_  
 `SEPT 2021 - OCT 2022`
 
- - Frontend Developer &nbsp;I&nbsp; _JoomShaper, Dhaka, Bangladesh_<br>
+ - Frontend Developer &nbsp;I&nbsp; _JoomShaper, Dhaka, Bangladesh_  
 `JUN 2019 - AUG 2021`
 
-- Frontend Developer &nbsp;I&nbsp; _Freelance_<br>
+- Frontend Developer &nbsp;I&nbsp; _Freelance_  
 `FEB 2018 - MAY 2019`
 
-- Frontend Developer &nbsp;I&nbsp; _Hello Academy, Dhaka, Bangladesh_<br>
+- Frontend Developer &nbsp;I&nbsp; _Hello Academy, Dhaka, Bangladesh_  
 `FEB 2017 - DEC 2018`
 
 ### 🏆&nbsp; Certifications
 
-- **JavaScript Algorithms and Data Structures Certification**<br>
+- **JavaScript Algorithms and Data Structures Certification**  
 By `FreeCodeCamp` - 
 [See credential](https://www.freecodecamp.org/certification/saiefalemon/javascript-algorithms-and-data-structures)
 
-- **Responsive Web Design Certification**<br>
+- **Responsive Web Design Certification**  
 By `FreeCodeCamp` - 
 [See credential](https://www.freecodecamp.org/certification/saiefalemon/responsive-web-design)
 
