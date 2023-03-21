@@ -62,8 +62,8 @@ By `FreeCodeCamp` -
 [![Hackerrank URL](https://img.shields.io/badge/social--badge?style=social&label=HackerRank&logo=hackerrank)](https://www.hackerrank.com/saiefalemon)
 
 <div>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsaief&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=iamsaief&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamsaief&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamsaief&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
 </div>
 
 <!--
