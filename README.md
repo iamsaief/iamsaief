@@ -1,18 +1,21 @@
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=iamsief.iamsaief) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=iamsief.iamsaief)
 
 ### Hi there, 👋&nbsp; I'm [Saief](https://github.com/iamsaief/)  
 
-Computer Science graduate from Dhaka, Bangladesh 🇧🇩, experienced, self-taught frontend engineer. Good at building interactive UIs with proven knowledge of design systems, a11y, typography, spacing, modern single-page application development.
+My passion is to create engaging and accessible web experiences that delight users and meet business
+goals. As a frontend developer based in Dhaka, Bangladesh 🇧🇩, I have a strong background in computer
+science and self-taught skills in various web technologies. 
 
-Actively contributing to up-and-running WordPress themes and plugins, building reusable components;
-Efficient in HTML, CSS/SASS, Vanilla JavaScript, Reactjs, PHP etc.
+I am proficient at HTML, CSS/SASS, Vanilla JavaScript, Reactjs, WordPress, PHP and more. I also have a keen eye for design systems, typography, spacing,
+and single-page application development. I am eager to apply my knowledge and creativity to challenging projects that require innovative solutions
+and collaboration.
 
 
 ### 🧑‍💻&nbsp; Technical Skills
 <table>
     <tr>
         <td>Frontend</td>
-        <td>Vanilla JavaScript, DOM Manipulation, ES6/ESNext, Reactjs, Bootstrap, Tailwind CSS, Material UI, <br> HTML5, Modern CSS (SVG Animations, Grid/Flexbox etc.) and SASS/SCSS</td>
+        <td>Vanilla JavaScript, DOM Manipulation, ES6/ESNext, Reactjs, Bootstrap, Tailwindcss, Material UI, <br> HTML5, Modern CSS (SVG Animations, Grid/Flexbox etc.) and SASS/SCSS</td>
     </tr>
     <tr>
         <td>Familiar</td>
@@ -54,8 +57,8 @@ By `FreeCodeCamp` -
 
 #### 📫&nbsp; Reach me:
 
-[![LinkedIn URL](https://img.shields.io/badge/social--badge?style=social&label=LinkedIn&logo=linkedin)](https://www.linkedin.com/in/saiefalemon)
 [![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:saiefalemon@gmail.com)
+[![LinkedIn URL](https://img.shields.io/badge/social--badge?style=social&label=LinkedIn&logo=linkedin)](https://www.linkedin.com/in/saiefalemon)
 [![Codepen URL](https://img.shields.io/badge/social--badge?style=social&label=Codepen&logo=codepen)](https://www.codepen.io/iamsaief)
 [![Codesandbox URL](https://img.shields.io/badge/social--badge?style=social&label=Codesandbox&logo=codesandbox)](https://codesandbox.io/u/iamsaief) 
 [![Medium URL](https://img.shields.io/badge/social--badge?style=social&label=medium&logo=medium)](https://medium.com/@saiefalemon)
