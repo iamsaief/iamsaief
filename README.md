@@ -15,15 +15,17 @@ and collaboration.
 <table>
     <tr>
         <td>Frontend</td>
-        <td>Vanilla JavaScript, DOM Manipulation, ES6/ESNext, Reactjs, Bootstrap, Tailwindcss, Material UI, <br> HTML5, Modern CSS (SVG Animations, Grid/Flexbox etc.) and SASS/SCSS</td>
+        <td>Vanilla JavaScript, DOM Manipulation, ES6/ESNext, Reactjs, Bootstrap, Tailwindcss, <br> 
+            HTML5, Modern CSS (SVG Animations, Grid/Flexbox etc.) and SASS/SCSS</td>
     </tr>
     <tr>
         <td>Familiar</td>
-        <td>PHP, WordPress, Elementor, Gutenburg, SPA, Reactjs, Nextjs, Gatsbyjs, Design Systems, Storybook, <br> Node, Express, REST API, MongoDB, Firebase, Netlify, Vercel</td>
+        <td>PHP, WordPress, Elementor, Gutenburg, Reactjs, Nextjs, Gatsbyjs, Redux, Redux-toolkit, <br> 
+            Node, Express, REST API, MongoDB, Firebase, Netlify, Vercel, Design Systems, Storybook</td>
     </tr>
     <tr>
         <td>Dev Tools</td>
-        <td>VCS Git (Github), Webpack, Gulp, NPM, Parcel, VS Code, CLI, Chrome dev tools, JIRA, Slack</td>
+        <td>VCS Git (Github), Webpack, Vite, Parcel, VS Code, CLI, Chrome dev tools, JIRA, Slack</td>
     </tr>
     <tr>
         <td>Design Tools</td>
