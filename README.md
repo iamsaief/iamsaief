@@ -27,36 +27,25 @@ I am **Saief**, driven by a desire to craft engaging, accessible interfaces that
 
 ### ✨&nbsp; Work Experience
 
-- Frontend Engineer (_Freelance_) &nbsp;I&nbsp; _CloudTax, Toronto, Canada_ 
-  <br/><sub><sup>`NOV 2023 - DEC 2023`</sup></sub>
+- Frontend Engineer (_Freelance_) &nbsp;I&nbsp; _CloudTax, Toronto, Canada_ <sub><sup>`NOV 2023 - DEC 2023`</sup></sub>
 
-- Block Theme Developer &nbsp;I&nbsp; _Digiflakes, Dhaka, Bangladesh_ 
-  <br/> <sub><sup>`JUN 2023 - OCT 2023`</sup></sub>
+- Block Theme Developer &nbsp;I&nbsp; _Digiflakes, Dhaka, Bangladesh_ <sub><sup>`JUN 2023 - OCT 2023`</sup></sub>
 
-- Senior Frontend Developer &nbsp;I&nbsp; _CoderGens, Dhaka, Bangladesh_
-  <br/> <sub><sup>`NOV 2022 – FEB 2023`</sup></sub>
+- Senior Frontend Developer &nbsp;I&nbsp; _CoderGens, Dhaka, Bangladesh_ <sub><sup>`NOV 2022 – FEB 2023`</sup></sub>
 
-- Software Engineer &nbsp;I&nbsp; _JoomShaper, Dhaka, Bangladesh_
-  <br/> <sub><sup>`SEPT 2021 - OCT 2022`</sup></sub>
+- Software Engineer &nbsp;I&nbsp; _JoomShaper, Dhaka, Bangladesh_ <sub><sup>`SEPT 2021 - OCT 2022`</sup></sub>
 
-- Frontend Developer &nbsp;I&nbsp; _JoomShaper, Dhaka, Bangladesh_
-  <br/> <sub><sup>`JUN 2019 - AUG 2021`</sup></sub>
+- Frontend Developer &nbsp;I&nbsp; _JoomShaper, Dhaka, Bangladesh_ <sub><sup>`JUN 2019 - AUG 2021`</sup></sub>
 
-- Frontend Developer (_Freelance_)
-  <br/> <sub><sup>`FEB 2018 - MAY 2019`</sup></sub>
+- Frontend Developer (_Freelance_) <sub><sup>`FEB 2018 - MAY 2019`</sup></sub>
 
-- Frontend Developer &nbsp;I&nbsp; _Hello Academy, Dhaka, Bangladesh_
-  <br/> <sub><sup>`FEB 2017 - DEC 2018`</sup></sub>
+- Frontend Developer &nbsp;I&nbsp; _Hello Academy, Dhaka, Bangladesh_ <sub><sup>`FEB 2017 - DEC 2018`</sup></sub>
 
 ### 🎖️&nbsp; Certifications
 
-- **JavaScript Algorithms and Data Structures**  
-<sub><sup>`FreeCodeCamp` - 
-[See credential](https://www.freecodecamp.org/certification/saiefalemon/javascript-algorithms-and-data-structures)</sup></sub>
+- **JavaScript Algorithms and Data Structures**  <sub><sup>`FreeCodeCamp` - [See credential](https://www.freecodecamp.org/certification/saiefalemon/javascript-algorithms-and-data-structures)</sup></sub>
 
-- **Responsive Web Design**  
-<sup><sub>`FreeCodeCamp` - 
-[See credential](https://www.freecodecamp.org/certification/saiefalemon/responsive-web-design)</sup></sub>
+- **Responsive Web Design**  <sup><sub>`FreeCodeCamp` - [See credential](https://www.freecodecamp.org/certification/saiefalemon/responsive-web-design)</sup></sub>
 
 #### 🔍&nbsp; Connect with me!
 
