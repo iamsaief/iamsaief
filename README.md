@@ -33,9 +33,7 @@ I am **Saief**, driven by a desire to craft engaging, accessible interfaces that
 
 - Senior Frontend Developer &nbsp;I&nbsp; _CoderGens, Dhaka, Bangladesh_ <sub><sup>`NOV 2022 – FEB 2023`</sup></sub>
 
-- Software Engineer &nbsp;I&nbsp; _JoomShaper, Dhaka, Bangladesh_ <sub><sup>`SEPT 2021 - OCT 2022`</sup></sub>
-
-- Frontend Developer &nbsp;I&nbsp; _JoomShaper, Dhaka, Bangladesh_ <sub><sup>`JUN 2019 - AUG 2021`</sup></sub>
+- Software Engineer &nbsp;I&nbsp; _Ollyo_, formerly _JoomShaper, Dhaka, Bangladesh_ <sub><sup>`JUN 2019 - OCT 2022`</sup></sub>
 
 - Frontend Developer (_Freelance_) <sub><sup>`FEB 2018 - MAY 2019`</sup></sub>
 
