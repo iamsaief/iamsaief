@@ -1,11 +1,12 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=iamsief.iamsaief) -->
 
-### Hi There! 👋&nbsp;  
+### Hi There! 👋
 
-I am **Saief**, driven by a desire to craft engaging, accessible interfaces that empower users and meet business objectives, I bring 5 years of experience as a Frontend Engineer to the table. My expertise lies in translating intuitive UI/UX designs into pixel-perfect, responsive web applications using modern JavaScript (ES6), ReactJS, HTML, CSS (including SASS/SCSS, Animations, Grid/Flexbox), Bootstrap, TailwindCSS, and more.
+I am **Saief** 🇧🇩, driven by a desire to craft engaging, accessible interfaces that empower users and meet business objectives. With 5+ years of experience as a Frontend Engineer, My expertise lies in translating intuitive UI/UX designs into pixel-perfect, responsive websites/SPA using modern `React.js/Next.js`, `JavaScript (ES6)`, `HTML`, `CSS` `(including SASS/SCSS, Animations, Grid/Flexbox)` and more.
 
 
-### 🧑‍💻&nbsp; Technical Skills
+### 🧑‍💻&nbsp; TECH SKILLS
+<!-- 
 <table>
     <tr>
         <td>Frontend</td>
@@ -24,26 +25,30 @@ I am **Saief**, driven by a desire to craft engaging, accessible interfaces that
         <td>Figma, Photoshop, Sketch, Adobe XD.</td>
     </tr>
 </table>
+-->
 
-### ✨&nbsp; Work Experience
+```javascript
+{
+    Expertise: [ 'React.js/Next.js', 'ChakraUI', 'JavaScript (ES6)', 'HTML', 'CSS (SASS/SCSS)', 'TailwindCSS', 'Bootstrap' ],
+    Familiar: [ 'State Management with Context API/useReducer/Redux', 'REST API', 'PHP', 'WordPress', 'Page Building Tools', 'GSAP', 'Framer Motion', 'Design Systems' ],
+    DevTools: [ 'Git/Github', 'Vite', 'Webpack', 'NPM', 'CLI', 'Browser dev tools' ],
+    DesignTools: [ 'Figma', 'Photoshop' ]
+}
+```
 
-- Frontend Engineer (_Freelance_) &nbsp;I&nbsp; _CloudTax, Toronto, Canada_ <sub><sup>`NOV 2023 - DEC 2023`</sup></sub>
+### ✨&nbsp; EXPERIENCES
 
-- Block Theme Developer &nbsp;I&nbsp; _Digiflakes, Dhaka, Bangladesh_ <sub><sup>`JUN 2023 - OCT 2023`</sup></sub>
+#### Frontend Engineer (Freelance/Contract) <sub><sup>`NOV 2022 - JAN 2024`</sub></sup> | _CloudTax_ <sub><sup>(Software Company 🇨🇦)</sub></sup> | _Digiflakes_ <sub><sup>(Local Agency 🇧🇩)</sub></sup> | _CoderGens_ <sub><sup>(Local Agency 🇧🇩)</sub></sup>
 
-- Senior Frontend Developer &nbsp;I&nbsp; _CoderGens, Dhaka, Bangladesh_ <sub><sup>`NOV 2022 – FEB 2023`</sup></sub>
+#### Software Engineer <sub><sup>`JUN 2019 - OCT 2022`</sup></sub> | _Ollyo_, formerly _JoomShaper_, <sub><sup>(Software Company 🇧🇩)</sub></sup>
 
-- Software Engineer &nbsp;I&nbsp; _Ollyo_, formerly _JoomShaper, Dhaka, Bangladesh_ <sub><sup>`JUN 2019 - OCT 2022`</sup></sub>
+#### Frontend Developer (Freelance/Contract) <sub><sup>`FEB 2018 - APRIL 2019`</sub></sup> | _Clients Project_ | _Hello Academy_ <sub><sup>(Local Agency 🇧🇩)</sub></sup>
 
-- Frontend Developer (_Freelance_) <sub><sup>`FEB 2018 - MAY 2019`</sup></sub>
+### 🎖️&nbsp; CERTIFICATIONS
 
-- Frontend Developer &nbsp;I&nbsp; _Hello Academy, Dhaka, Bangladesh_ <sub><sup>`FEB 2017 - DEC 2018`</sup></sub>
+- **Algorithms and Data Structures**  <sub><sup>`FreeCodeCamp` - [See credential](https://www.freecodecamp.org/certification/saiefalemon/javascript-algorithms-and-data-structures)</sub></su>
 
-### 🎖️&nbsp; Certifications
-
-- **JavaScript Algorithms and Data Structures**  <sub><sup>`FreeCodeCamp` - [See credential](https://www.freecodecamp.org/certification/saiefalemon/javascript-algorithms-and-data-structures)</sup></sub>
-
-- **Responsive Web Design**  <sup><sub>`FreeCodeCamp` - [See credential](https://www.freecodecamp.org/certification/saiefalemon/responsive-web-design)</sup></sub>
+- **Responsive Web Design**  <sub><sup>`FreeCodeCamp` - [See credential](https://www.freecodecamp.org/certification/saiefalemon/responsive-web-design)</sub></sup>
 
 #### 🔍&nbsp; Connect with me!
 
