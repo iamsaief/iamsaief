@@ -38,11 +38,11 @@ I am **Saief** 🇧🇩, driven by a desire to craft engaging, accessible interf
 
 ### ✨&nbsp; EXPERIENCES
 
-#### Frontend Engineer (Freelance/Contract) <sub><sup>`NOV 2022 - JAN 2024`</sub></sup> | _CloudTax_ <sub><sup>(Software Company 🇨🇦)</sub></sup> | _Digiflakes_ <sub><sup>(Local Agency 🇧🇩)</sub></sup> | _CoderGens_ <sub><sup>(Local Agency 🇧🇩)</sub></sup>
+- **Frontend Engineer (Freelance/Contract) <sub><sup>`NOV 2022 - JAN 2024`</sub></sup>** <br/> <sub><sup>_CloudTax_ (Software Company 🇨🇦) | _Digiflakes_ (Local Agency 🇧🇩) | _CoderGens_ (Local Agency 🇧🇩)</sub></sup>
 
-#### Software Engineer <sub><sup>`JUN 2019 - OCT 2022`</sup></sub> | _Ollyo_, formerly _JoomShaper_, <sub><sup>(Software Company 🇧🇩)</sub></sup>
+- Software Engineer <sub><sup>`JUN 2019 - OCT 2022`</sup></sub> <br/> <sub><sup>_Ollyo_, formerly _JoomShaper_, (Software Company 🇧🇩)</sub></sup>
 
-#### Frontend Developer (Freelance/Contract) <sub><sup>`FEB 2018 - APRIL 2019`</sub></sup> | _Clients Project_ | _Hello Academy_ <sub><sup>(Local Agency 🇧🇩)</sub></sup>
+- Frontend Developer (Freelance/Contract) <sub><sup>`FEB 2018 - APRIL 2019`</sub></sup> <br/> <sub><sup> _Clients Project_ | _Hello Academy_ (Local Agency 🇧🇩)</sub></sup>
 
 ### 🎖️&nbsp; CERTIFICATIONS
 
