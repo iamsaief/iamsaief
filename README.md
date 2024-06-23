@@ -2,7 +2,7 @@
 
 ### Hi There! 👋
 
-I am **Saief** 🇧🇩, driven by a desire to craft engaging, accessible interfaces that empower users and meet business objectives. With 5+ years of experience as a Frontend Engineer, My expertise lies in translating intuitive UI/UX designs into pixel-perfect, responsive websites/SPA using modern `React.js/Next.js`, `JavaScript (ES6)`, `HTML`, `CSS` `(including SASS/SCSS, Animations, Grid/Flexbox)` and more.
+I am **Saief** 🇧🇩, driven by a desire to craft engaging, accessible interfaces that empower users and meet business objectives. With 5+ years of experience as a Frontend Engineer, My expertise lies in translating intuitive UI/UX designs into pixel-perfect, responsive websites/SPA using `React.js/Next.js`, `JavaScript (ES6)`, `HTML`, `CSS` `(including SASS/SCSS, Animations, Grid/Flexbox)` and more.
 
 
 ### 🧑‍💻&nbsp; TECH SKILLS
