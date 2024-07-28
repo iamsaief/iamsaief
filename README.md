@@ -2,8 +2,7 @@
 
 ### Hi There! 👋
 
-I am **Saief** 🇧🇩, driven by a desire to craft engaging, accessible interfaces that empower users and meet business objectives. With 5+ years of experience as a Frontend Engineer, My expertise lies in translating intuitive UI/UX designs into pixel-perfect, responsive websites/SPA using `React.js/Next.js`, `JavaScript (ES6)`, `HTML`, `CSS` `(including SASS/SCSS, Animations, Grid/Flexbox)` and more.
-
+I am **Saief** 🇧🇩, driven by a desire to craft engaging, accessible interfaces that empower users and meet business objectives. With 5+ years of experience as a Frontend Engineer, My expertise lies in translating intuitive UI/UX designs into pixel-perfect, responsive websites/SPA using `React.js/Next.js`, `JavaScript (ES6)`, `HTML`, `CSS` (`including SASS/SCSS, Animations, Grid/Flexbox`) and `Wordpress`.
 
 ### 🧑‍💻&nbsp; TECH SKILLS
 <!-- 
@@ -38,17 +37,18 @@ I am **Saief** 🇧🇩, driven by a desire to craft engaging, accessible interf
 
 ### ✨&nbsp; EXPERIENCES
 
-- **Frontend Engineer (Freelance/Contract) <sub><sup>`NOV 2022 - JAN 2024`</sub></sup>** <br/> <sub><sup>_CloudTax_ (Software Company 🇨🇦) | _Digiflakes_ (Local Agency 🇧🇩) | _CoderGens_ (Local Agency 🇧🇩)</sub></sup>
+- **Frontend Engineer** (Freelance/Contract), <sub><sup>`NOV 2022 - Present`</sub></sup> <br/> <sub><sup> [Unei Digital](https://unei.io/) (Dhaka, 🇧🇩) | [CloudTax](https://www.cloudtax.ca/) (Software Company 🇨🇦) | [Digiflakes](https://digiiflakes.com/) (Dhaka, 🇧🇩) | [CoderGens](https://www.upwork.com/agencies/703257836676063232/) (Dhaka, 🇧🇩)</sub></sup>
 
-- Software Engineer <sub><sup>`JUN 2019 - OCT 2022`</sup></sub> <br/> <sub><sup>_Ollyo_, formerly _JoomShaper_, (Software Company 🇧🇩)</sub></sup>
+- **Software Engineer**, <sub><sup>`JUN 2019 - OCT 2022`</sup></sub> <br/> <sub><sup>[Ollyo](https://ollyo.com/), formerly [JoomShaper](https://www.joomshaper.com/), Software Company 🇧🇩</sup></sub>
 
-- Frontend Developer (Freelance/Contract) <sub><sup>`FEB 2018 - APRIL 2019`</sub></sup> <br/> <sub><sup> _Clients Project_ | _Hello Academy_ (Local Agency 🇧🇩)</sub></sup>
+- **Frontend Developer** (Freelance/Contract), <sub><sup>`FEB 2018 - APR 2019`</sup></sub> <br/> <sub><sup> _Clients Project_ | _Hello Academy_ (Local Agency 🇧🇩)</sup></sub>
 
 ### 🎖️&nbsp; CERTIFICATIONS
 
-- **Algorithms and Data Structures**  <sub><sup>`FreeCodeCamp` - [See credential](https://www.freecodecamp.org/certification/saiefalemon/javascript-algorithms-and-data-structures)</sub></su>
-
-- **Responsive Web Design**  <sub><sup>`FreeCodeCamp` - [See credential](https://www.freecodecamp.org/certification/saiefalemon/responsive-web-design)</sub></sup>
+- **Algorithms and Data Structures Certification (300 hours)** <sub><sup>`April 2020` <br/> freeCodeCamp.org | [Credential URL](https://www.freecodecamp.org/certification/saiefalemon/javascript-algorithms-and-data-structures)</sup></sub>
+- **Agile & Scrum Workshop** <sub><sup>`March 2020` <br/> techmastersbd.com </sup></sub>
+- **Responsive Web Design Certification (300 hours)** <sub><sup>`February 2019`<br/> freeCodeCamp.org | [Credential URL](https://www.freecodecamp.org/certification/saiefalemon/responsive-web-design)</sup></sub>
+- **Bachelor of Science in Computer Science and Engineering** <sub><sup>`Mar 2014 - Oct 2018` <br/>National University, Gazipur, Bangladesh</sup></sub>
 
 #### 🔍&nbsp; Connect with me!
 
