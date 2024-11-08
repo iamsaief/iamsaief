@@ -37,11 +37,11 @@ I am **Saief** 🇧🇩, driven by a desire to craft engaging, accessible interf
 
 ### ✨&nbsp; EXPERIENCES
 
-- **Frontend Engineer** (Freelance/Contract), <sub><sup>`NOV 2022 - Present`</sub></sup> <br/> <sub><sup> [Unei Digital](https://unei.io/) (Dhaka, 🇧🇩) | [CloudTax](https://www.cloudtax.ca/) (Software Company 🇨🇦) | [Digiflakes](https://digiiflakes.com/) (Dhaka, 🇧🇩) | [CoderGens](https://www.upwork.com/agencies/703257836676063232/) (Dhaka, 🇧🇩)</sub></sup>
+- **Frontend Engineer** (Contract), <sub><sup>`NOV 2022 - Present`</sub></sup> <br/> <sub><sup> [Unei Digital](https://unei.io/) (Dhaka, 🇧🇩) | [CloudTax](https://www.cloudtax.ca/) (Software Company 🇨🇦) | [Digiflakes](https://digiiflakes.com/) (Dhaka, 🇧🇩) | [CoderGens](https://www.upwork.com/agencies/703257836676063232/) (Dhaka, 🇧🇩)</sub></sup>
 
 - **Software Engineer**, <sub><sup>`JUN 2019 - OCT 2022`</sup></sub> <br/> <sub><sup>[Ollyo](https://ollyo.com/), formerly [JoomShaper](https://www.joomshaper.com/), Software Company 🇧🇩</sup></sub>
 
-- **Frontend Developer** (Freelance/Contract), <sub><sup>`FEB 2018 - APR 2019`</sup></sub> <br/> <sub><sup> _Clients Project_ | _Hello Academy_ (Local Agency 🇧🇩)</sup></sub>
+- **Frontend Developer**, <sub><sup>`FEB 2018 - APR 2019`</sup></sub> <br/> <sub><sup> _Clients Project_ | _Hello Academy_ (Local Agency 🇧🇩)</sup></sub>
 
 ### 🎖️&nbsp; CERTIFICATIONS
 
