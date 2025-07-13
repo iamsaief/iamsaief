@@ -1,11 +1,29 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=iamsief.iamsaief) -->
 
+
+# 🚀 Frontend Engineer | React.js · Next.js · WordPress
+
+I design and build fast, responsive, and accessible websites and web apps. With 6+ years of experience working with `React.js`, `Next.js`, and `WordPress`, I’ve helped ship tools, dashboards, and digital platforms used by thousands globally.
+
+I focus on writing clean, maintainable code and building UI that performs well even under pressure. Whether it's a single-page application, a custom WordPress theme/plugin, or a headless setup, I know how to make it run smooth and look sharp.
+
+### 📌 What I bring
+
+- Real-world experience across agency, SaaS, and product teams
+- Reusable component systems, pixel-perfect implementation, and cross-team collaboration
+- A solid grip on performance optimization, accessibility, and scalability
+- Empathy for users and communication that clicks with both devs and designers
+
+I'm always open to talking about new ideas, freelance projects, or joining a team that values thoughtful, quality work.
+
+🔗 [Projects](https://github.com/iamsaief/reactjs) • 🔗 [Linkedin](https://www.linkedin.com/in/saiefalemon) • 🔗 [CodePen](codepen.io/iamsaief)
+
+<!-- 
 ### Hi There! 👋
 
 I am **Saief** 🇧🇩, driven by a desire to craft engaging, accessible interfaces that empower users and meet business objectives. With 5+ years of experience as a Frontend Engineer, My expertise lies in translating intuitive UI/UX designs into pixel-perfect, responsive websites/SPA using `React.js/Next.js`, `JavaScript (ES6)`, `HTML`, `CSS` (`including SASS/SCSS, Animations, Grid/Flexbox`) and `Wordpress`.
 
 ### 🧑‍💻&nbsp; TECH SKILLS
-<!-- 
 <table>
     <tr>
         <td>Frontend</td>
@@ -25,7 +43,7 @@ I am **Saief** 🇧🇩, driven by a desire to craft engaging, accessible interf
     </tr>
 </table>
 -->
-
+<!--
 ```javascript
 {
     Expertise: [ 'React.js/Next.js', 'ChakraUI', 'JavaScript (ES6)', 'HTML', 'CSS (SASS/SCSS)', 'TailwindCSS', 'Bootstrap' ],
@@ -54,14 +72,13 @@ I am **Saief** 🇧🇩, driven by a desire to craft engaging, accessible interf
 
 Let's discuss how I can help you build delightful, accessible web experiences that drive engagement and success. <br/>
 Feel free to connect with me or reach out directly.
+-->
 
-<!--[![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:saiefalemon@gmail.com)-->
+<!--
 [![Portfolio](https://img.shields.io/badge/social--badge?style=social&label=🌐%20Portfolio)](https://iamsaief.com/)
 [![LinkedIn URL](https://img.shields.io/badge/social--badge?style=social&label=LinkedIn&logo=linkedin)](https://www.linkedin.com/in/saiefalemon)
 [![Codepen URL](https://img.shields.io/badge/social--badge?style=social&label=Codepen&logo=codepen)](https://www.codepen.io/iamsaief)
-[![Codesandbox URL](https://img.shields.io/badge/social--badge?style=social&label=Codesandbox&logo=codesandbox)](https://codesandbox.io/u/iamsaief) 
-[![Medium URL](https://img.shields.io/badge/social--badge?style=social&label=medium&logo=medium)](https://medium.com/@saiefalemon)
-[![Hackerrank URL](https://img.shields.io/badge/social--badge?style=social&label=HackerRank&logo=hackerrank)](https://www.hackerrank.com/saiefalemon)
+-->
 
 <div>
 <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamsaief&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
